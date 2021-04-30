@@ -1,0 +1,100 @@
+body {
+    margin: 0%;
+}
+
+div.m-header {
+    height: 40px;
+    width: 40px;
+}
+
+.inner {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 40px;
+}
+
+.main {
+    background: linear-gradient(135deg, rgba(49, 98, 247, 1) 0%, rgba(48, 164, 248, 1) 56%, rgba(156, 240, 255, 1) 100%);
+    clear: left;
+    text-align: center;
+    color: white;
+
+}
+
+.f-content {
+    padding-top: 50px;
+}
+
+.feel {
+    text-align: center;
+}
+
+.gether {
+    text-align: center;
+    background: linear-gradient(135deg, rgb(90, 221, 166) 0%, rgb(152, 236, 208) 56%, rgba(156, 240, 255, 1) 100%);
+}
+
+.swiper-container {
+    width: 250px;
+    height: 250px;
+}
+
+.swiper-container1 {
+    width: 450px;
+    height: 350px;
+}
+
+.f-image {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+img.second {
+    width: 50%;
+    height: 50%;
+}
+
+.first {
+    max-width: 100%;
+    height: auto;
+}
+
+.google {
+    width: 20%;
+    height: 20%;
+}
+
+.apple {
+    width: 100px;
+    height: 80px;
+}
+
+p {
+    font-family: "Noto Sans KR", "sans-serif";
+    font-size: 20px;
+}
+
+h1 {
+    float: left;
+    margin: 0px;
+
+}
+
+h2 {
+    margin: 0%;
+    padding-bottom: 10px;
+    font-family: "Noto Sans KR", "sans-serif";
+    font-size: 50px;
+}
+
+nav {
+    float: right;
+    padding-top: 15px;
+
+}
+
+footer {
+    text-align: center;
+    padding-top: 15px;
+}
